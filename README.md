@@ -12,16 +12,13 @@ Using credit card data from LendingClub, a peer-to-peer lending services company
 - Precision:  1%/100%
 - Recall: 72%/59%
 
-
-
-
 ### SMOTE Oversampling
 ![image](https://user-images.githubusercontent.com/112590378/210694868-03351dcc-83af-4318-98a0-731b4142721c.png)
 
 - Balanced Accuracy:  66%
 - Precision:  1%/100%
 - Recall: 63%/69%
-- 
+ 
 ### Undersampling 
 ![image](https://user-images.githubusercontent.com/112590378/210694892-2591d0f9-cf38-4b06-b1e1-b604458d9b15.png)
 
@@ -52,5 +49,3 @@ Using credit card data from LendingClub, a peer-to-peer lending services company
 
 ## Summary
 Every machine learning algorithm did poorly in determining a high credit card risk accurately, However, the Easy Ensemble AdaBoost Classifier demonstrated a recall of 93% meaning in detects almost all high risk credit. Still, a great number of low risk credit is classified as high risk and for that reason, I would not recommend any of these models to be used to predict credit risk.
-
-
