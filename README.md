@@ -25,7 +25,7 @@ Using credit card data from LendingClub, a peer-to-peer lending services company
 - Balanced Accuracy:  54%
 - Precision:  1%/100%
 - Recall: 69%/40%
-- 
+ 
 ### Combination (Over and Under) Sampling
 ![image](https://user-images.githubusercontent.com/112590378/210694918-83b435ee-0eaa-44a6-94f0-e25b67052ba3.png)
 
