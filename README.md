@@ -42,7 +42,7 @@ Using credit card data from LendingClub, a peer-to-peer lending services company
 - Balanced Accuracy:  79%
 - Precision:  3%/100%
 - Recall: 70%/87%
-- 
+
 ### Easy Ensemble AdaBoost Classifier
 ![image](https://user-images.githubusercontent.com/112590378/210694978-6f17bd7a-274c-4fcc-95fa-8f15e3213b29.png)
 
